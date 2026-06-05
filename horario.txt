@@ -1,4 +1,5 @@
 Reunión de proyecto: Jueves 10:30 PM
+<<<<<<< Updated upstream
 - Notas:
  Fecha de entrega: viernes 05.06.2026 hasta las 11:59 p.m.
  Entrega: por la aplicación UTP+Class.
@@ -7,3 +8,10 @@ Reunión de proyecto: Jueves 10:30 PM
  El trabajo debe hacerse en los grupos creados en clase. No se permitirá trabajos individuales.
  Cada respuesta debe ser debidamente justificada con pantalla de respuestas del software que
 utilizan.
+=======
+- Utilizar el software colaborativo Trello asignado a cada grupo para mostrar cómo podrían utilizarlo en sus
+labores diarias como estudiantes de la Universidad UTP. Elabore un ejemplo básico con el software
+asignado. Utilice nombres de los integrantes del grupo para elaborar el ejercicio. Muestre imágenes
+de cada paso en la creación del ejercicio propuesto. Recordar que los grupos tuvieron los siguientes
+software colaborativos.
+>>>>>>> Stashed changes
